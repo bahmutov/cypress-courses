@@ -1,18 +1,16 @@
 {
   "name": "cypress-courses",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Discussion and ideas for lessons for my Cypress courses",
+  "private": true,
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bahmutov/cypress-courses.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gleb Bahmutov",
+  "license": "private",
   "bugs": {
     "url": "https://github.com/bahmutov/cypress-courses/issues"
   },
