@@ -9,3 +9,10 @@ If you are enjoying my [Cypress courses](https://cypress.tips/courses) and have 
 - [Cypress Network Testing Exercises](https://cypress.tips/courses/network-testing)
 
 **Gleb**
+
+## Cypress Network Testing Exercises
+
+Link | Title | Video
+---|---|---
+[#](https://cypress.tips/courses/network-testing/lessons/intro) | Introduction to this course | 📺
+[#](https://cypress.tips/courses/network-testing/lessons/spec01) | Spec 01: Shows some fruit | 📺
